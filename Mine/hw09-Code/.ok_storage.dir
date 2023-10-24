@@ -1,0 +1,5 @@
+'make-change-correct', (0, 66)
+'find-correct', (512, 66)
+'find-nest-correct', (1024, 66)
+'k-curry-correct', (1536, 66)
+'let-correct', (2048, 66)

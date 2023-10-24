@@ -1,0 +1,6 @@
+'pow-correct', (0, 66)
+'filter-lst-correct', (512, 66)
+'no-repeats-correct', (1024, 66)
+'substitute-correct', (1536, 66)
+'sub-all-correct', (2048, 66)
+'tree-correct', (2560, 66)

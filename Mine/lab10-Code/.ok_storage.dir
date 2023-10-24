@@ -1,0 +1,6 @@
+'filter-stream-correct', (0, 66)
+'slice-correct', (512, 66)
+'factorials-correct', (1024, 66)
+'fibs-correct', (1536, 66)
+'exp-correct', (2048, 66)
+'nondecrease-correct', (2560, 66)
